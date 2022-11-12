@@ -26,19 +26,6 @@
 
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/42171814/200714085-399b7625-81ae-4c71-bb39-8483bf4e204e.gif"/>
-  </kbd>
-</p>
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-Ikomia is the **open source tool** to build and deploy Computer Vision solutions without much effort. You can mix your preferred frameworks such as **OpenCV**, **Detectron2**, **OpenMMLab** or **YOLO** with the best state-of-the-art algorithms from individual repos.
-
-No effort, just choose what you want and Ikomia downloads it, installs the requirements and runs everything on your own images or videos.
-
-<p align="center">
-  <kbd>
     <img src="https://user-images.githubusercontent.com/42171814/201488320-2c16e08a-1bcf-4e0e-bd8b-7aef3d8a16b7.png"/>
   </kbd>
 </p>
