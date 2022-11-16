@@ -14,6 +14,18 @@
     <a href="">
         <img alt="Python" src="https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9-blueviolet">
     </a>
+    <br>
+    <a href="https://join.slack.com/t/ikomia-community/shared_invite/zt-1ie9k8lw7-IsBaJ~nhGZyc0QfkYO3olA">
+        <img alt="Slack community" src="https://img.shields.io/badge/Slack-white?style=social&logo=slack">
+    </a> 
+    <a href="https://www.linkedin.com/company/ikomia">
+        <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&style=social" alt="linkedin community">
+    </a> 
+    <a href="https://twitter.com/IkomiaOfficial">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/IkomiaOfficial?style=social">
+    </a>  <a href="https://www.youtube.com/channel/UC0nIasJy6f-b-f0SOEsBlQw">
+        <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC0nIasJy6f-b-f0SOEsBlQw?style=social">
+    </a>
 </p>
 
 <!-- PROJECT LOGO -->
