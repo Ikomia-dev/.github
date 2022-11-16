@@ -1,17 +1,6 @@
 
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<div align="center">
-  <h3 align="center">Open source framework to build and deploy Computer Vision solutions without the hassle</h3>
-</div>
-<br />
-<p align="center">
-  <kbd>
-    <img src="https://user-images.githubusercontent.com/42171814/201488320-2c16e08a-1bcf-4e0e-bd8b-7aef3d8a16b7.png"/>
-  </kbd>
-</p>
-<br />
 <p align="center">
     <a href="https://github.com/Ikomia-dev/IkomiaAPI/stargazers">
         <img alt="Stars" src="https://img.shields.io/github/stars/Ikomia-dev?style=social">
@@ -26,6 +15,18 @@
         <img alt="Python" src="https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9-blueviolet">
     </a>
 </p>
+
+<!-- PROJECT LOGO -->
+<div align="center">
+  <h3 align="center">Open source framework to build and deploy Computer Vision solutions without the hassle</h3>
+</div>
+<br />
+<p align="center">
+  <kbd>
+    <img src="https://user-images.githubusercontent.com/42171814/201488320-2c16e08a-1bcf-4e0e-bd8b-7aef3d8a16b7.png"/>
+  </kbd>
+</p>
+<br />
 
 <!-- GETTING STARTED -->
 ## Getting Started
