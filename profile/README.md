@@ -47,6 +47,6 @@
 
 **[Ikomia API](https://github.com/Ikomia-dev/IkomiaApi)** <a href="https://github.com/Ikomia-dev/IkomiaApi"><img alt="Stars" src="https://img.shields.io/github/stars/Ikomia-dev/IkomiaApi?color=purple"></a> : Python library to build and prototype your Computer Vision solutions with a few lines of code
 
-**[Ikomia STUDIO](https://github.com/Ikomia-dev/IkomiaStudio)** <a href="https://github.com/Ikomia-dev/IkomiaStudio"><img alt="Stars" src="https://img.shields.io/github/stars/Ikomia-dev/IkomiaStudio?color=orange"></a> : Desktop software and no-code solution to build and protoype your Computer Vision solutions without the hassle
+**[Ikomia STUDIO](https://github.com/Ikomia-dev/IkomiaStudio)** <a href="https://github.com/Ikomia-dev/IkomiaStudio"><img alt="Stars" src="https://img.shields.io/github/stars/Ikomia-dev/IkomiaStudio?color=orange"></a> : Desktop software and no-code solution to build and prototype your Computer Vision solutions without the hassle
 
 **Ikomia SCALE (under development)** : Tool to easily deploy Computer Vision solutions as production-ready services 
