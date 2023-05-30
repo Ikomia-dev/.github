@@ -12,7 +12,7 @@
         <img alt="Python" src="https://img.shields.io/badge/os-win%2C%20linux-9cf">
     </a>
     <a href="">
-        <img alt="Python" src="https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9-blueviolet">
+        <img alt="Python" src="https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9%2C%203.10-blueviolet">
     </a>
     <br>
     <a href="https://join.slack.com/t/ikomia-community/shared_invite/zt-1ie9k8lw7-IsBaJ~nhGZyc0QfkYO3olA">
