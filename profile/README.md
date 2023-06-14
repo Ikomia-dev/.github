@@ -15,8 +15,8 @@
         <img alt="Python" src="https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9%2C%203.10-blueviolet">
     </a>
     <br>
-    <a href="https://join.slack.com/t/ikomia-community/shared_invite/zt-1ie9k8lw7-IsBaJ~nhGZyc0QfkYO3olA">
-        <img alt="Slack community" src="https://img.shields.io/badge/Slack-white?style=social&logo=slack">
+    <a href="https://discord.com/invite/82Tnw9UGGc">
+        <img alt="Discord community" src="https://img.shields.io/badge/Discord-white?style=social&logo=discord">
     </a> 
     <a href="https://www.linkedin.com/company/ikomia">
         <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&style=social" alt="linkedin community">
