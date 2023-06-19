@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/42171814/201488320-2c16e08a-1bcf-4e0e-bd8b-7aef3d8a16b7.png"/>
+    <img src="https://github.com/Ikomia-dev/.github/assets/42171814/b189c713-23d8-42aa-8299-eee66e0c0114"/>
   </kbd>
 </p>
 <br />
