@@ -12,7 +12,7 @@
         <img alt="Python" src="https://img.shields.io/badge/os-win%2C%20linux-9cf">
     </a>
     <a href="">
-        <img alt="Python" src="https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9%2C%203.10-blueviolet">
+        <img alt="Python" src="https://img.shields.io/badge/python-3.8%2C%203.9%2C%203.10%2C%203.11-blueviolet">
     </a>
     <br>
     <a href="https://discord.com/invite/82Tnw9UGGc">
