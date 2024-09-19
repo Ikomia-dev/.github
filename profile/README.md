@@ -49,4 +49,4 @@
 
 **[Ikomia STUDIO](https://github.com/Ikomia-dev/IkomiaStudio)** <a href="https://github.com/Ikomia-dev/IkomiaStudio"><img alt="Stars" src="https://img.shields.io/github/stars/Ikomia-dev/IkomiaStudio?color=orange"></a> : Desktop software and no-code solution to build and prototype your Computer Vision solutions without the hassle
 
-**Ikomia SCALE (under development)** : Tool to easily deploy Computer Vision solutions as production-ready services 
+**Ikomia SCALE** : Platform to easily deploy Computer Vision solutions as production-ready services. [Click here](https://www.ikomia.ai/scale) to discover the product.
